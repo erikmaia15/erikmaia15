@@ -1,5 +1,5 @@
 # 💫 About Me:
-estou trabalhando com Vue.js em um estágio no NERDS, projeto da faculdade, aprendendo TypeScript e java, no back-end utilizo node.js e TypeScript, domino as linguagens: Python, JavaScripte aprendendo java, TypeScript.
+estou trabalhando com Vue.js no NERDS (projeto da faculdade), aprendendo TypeScript e java, no back-end utilizo node.js e TypeScript, domino as linguagens: Python, JavaScripte aprendendo java, TypeScript.
 
 
 ## 🌐 Socials:
